@@ -129,9 +129,6 @@ return {
                   styleLints = {
                     enable = true,
                   },
-                  experimental = {
-                    enable = true,
-                  },
                 },
               },
             },
